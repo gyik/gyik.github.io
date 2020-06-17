@@ -13,8 +13,8 @@ h1 {
 }
 
 h3 {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     font-family: "carolina";
     text-align: center;
     box-shadow: 3px 3px 7px grey;
@@ -59,13 +59,13 @@ p {
     color: black; 
     font-size: 16px; 
     font-family: Arial, Helvetica, sans-serif; 
-    margin-left: 15%;
+    margin-left: 10%;
     text-align: justify;
     text-transform: "uppercase";
-    margin-right: 15%;
+    margin-right: 10%;
 }
 img {
-    width: 14.0%;
+    width: 13%;
     box-shadow: 3px 3px 7px grey;
     margin: 1%;
 }

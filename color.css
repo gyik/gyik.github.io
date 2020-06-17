@@ -5,7 +5,8 @@ html {
 #imgDiv {
     margin-top: 10px;
     box-shadow: 3px 3px 10px black;
-    margin-left: 10px;
+    margin-left: 10%;
+    width: 80%;
 }
 
 #colorDiv {

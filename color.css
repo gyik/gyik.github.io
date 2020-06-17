@@ -4,7 +4,7 @@ html {
 
 #imgDiv {
     margin-top: 10px;
-    box-shadow: 3px 3px 10px black;
+    box-shadow: 3px 3px 8px #5f5f5f;
     margin-left: 10%;
     width: 80%;
 }

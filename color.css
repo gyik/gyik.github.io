@@ -2,7 +2,11 @@ html {
     background-image: url(/img/bg.jpg);
 }
 
-
+#imgDiv {
+    margin-top: 10px;
+    box-shadow: 3px 3px 10px black;
+    margin-left: 10px;
+}
 
 #colorDiv {
     margin-left: 25%;

@@ -1,0 +1,71 @@
+@font-face {
+    font-family: carolina;
+    src: url(/fonts/LibreFranklin-Light.ttf);
+    font-weight: 500;
+}
+h1 {
+    color: brown; 
+    font-style: initial; 
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-left: 20px; 
+    text-align: center;
+        
+}
+
+h3 {
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: "carolina";
+    text-align: center;
+    box-shadow: 3px 3px 7px grey;
+    text-decoration: wavy;
+}
+
+#bioHeader {
+    color: coral;
+}
+#skillsHeader {
+    color: red;
+  
+}
+#refheader {
+    color: brown;
+}
+.bold {
+    font-weight: bolder;
+    color: coral;
+}
+.imgDiv {
+background-color: lightblue;
+margin-left: 25%;
+    margin-right: 25%;
+}
+.imgLgt {
+    background-color: lightgray;
+    margin-left: 25%;
+    margin-right: 25%;   
+}
+#img1 {
+    
+}
+p {
+    color: green; 
+    font-size: 22px; 
+    font-family: "carolina"; 
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.content {
+    color: black; 
+    font-size: 16px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-left: 25%;
+    text-align: justify;
+    text-transform: "uppercase";
+    margin-right: 25%;
+}
+img {
+    width: 14.2%;
+    box-shadow: 3px 3px 7px grey;
+    margin: 1%;
+}

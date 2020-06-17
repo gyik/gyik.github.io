@@ -1,0 +1,14 @@
+html {
+    background-image: url(/img/bg.jpg);
+}
+
+
+
+#colorDiv {
+    margin-left: 25%;
+    display: inline-block;
+    width: 50%;
+    height: 800px;
+    background-color: rgba(12, 10, 100, 0.6)
+    ;
+}
